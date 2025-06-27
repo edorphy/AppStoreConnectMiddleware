@@ -1,4 +1,4 @@
-// AppStoreConnectMiddleware
+# AppStoreConnectMiddleware
 
 A Swift package for attaching signed JWTs as authorization headers to requests for the App Store Connect API. 
 
